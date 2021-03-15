@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @IsGai
-- 👀 I’m interested in lots of things
-- 💞️ I’m looking to collaborate on a emulator for the Mattel Hyperscan
-- 📫 Reach me at isaacgbueno@gmail.com
+Reach out at isaacgbueno@gmail.com if you want to collab on any of my projects! (Mainly looking for people to help with Hyperscan Emulator)
